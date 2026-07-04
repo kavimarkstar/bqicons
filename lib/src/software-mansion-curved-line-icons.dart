@@ -1,6 +1,7 @@
-// ignore_for_file: constant_identifier_names
+﻿// ignore_for_file: constant_identifier_names
 
 class SoftwareMansionCurvedLinee {
+
   /// Icon logo for air
   static const air = "assets/icons/software-mansion-curved-line-icons/air.svg";
 
@@ -8,55 +9,55 @@ class SoftwareMansionCurvedLinee {
   static const alarm =
       "assets/icons/software-mansion-curved-line-icons/alarm.svg";
 
-  /// Icon logo for arrow-circle-down
+  /// Icon logo for arrow_circle_down
   static const arrow_circle_down =
       "assets/icons/software-mansion-curved-line-icons/arrow-circle-down.svg";
 
-  /// Icon logo for arrow-circle-left
+  /// Icon logo for arrow_circle_left
   static const arrow_circle_left =
       "assets/icons/software-mansion-curved-line-icons/arrow-circle-left.svg";
 
-  /// Icon logo for arrow-circle-right
+  /// Icon logo for arrow_circle_right
   static const arrow_circle_right =
       "assets/icons/software-mansion-curved-line-icons/arrow-circle-right.svg";
 
-  /// Icon logo for arrow-circle-up
+  /// Icon logo for arrow_circle_up
   static const arrow_circle_up =
       "assets/icons/software-mansion-curved-line-icons/arrow-circle-up.svg";
 
-  /// Icon logo for arrow-down
+  /// Icon logo for arrow_down
   static const arrow_down =
       "assets/icons/software-mansion-curved-line-icons/arrow-down.svg";
 
-  /// Icon logo for arrow-left
+  /// Icon logo for arrow_left
   static const arrow_left =
       "assets/icons/software-mansion-curved-line-icons/arrow-left.svg";
 
-  /// Icon logo for arrow-right
+  /// Icon logo for arrow_right
   static const arrow_right =
       "assets/icons/software-mansion-curved-line-icons/arrow-right.svg";
 
-  /// Icon logo for arrow-small-down
+  /// Icon logo for arrow_small_down
   static const arrow_small_down =
       "assets/icons/software-mansion-curved-line-icons/arrow-small-down.svg";
 
-  /// Icon logo for arrow-small-left
+  /// Icon logo for arrow_small_left
   static const arrow_small_left =
       "assets/icons/software-mansion-curved-line-icons/arrow-small-left.svg";
 
-  /// Icon logo for arrow-small-right
+  /// Icon logo for arrow_small_right
   static const arrow_small_right =
       "assets/icons/software-mansion-curved-line-icons/arrow-small-right.svg";
 
-  /// Icon logo for arrow-small-up
+  /// Icon logo for arrow_small_up
   static const arrow_small_up =
       "assets/icons/software-mansion-curved-line-icons/arrow-small-up.svg";
 
-  /// Icon logo for arrow-up
+  /// Icon logo for arrow_up
   static const arrow_up =
       "assets/icons/software-mansion-curved-line-icons/arrow-up.svg";
 
-  /// Icon logo for at-email
+  /// Icon logo for at_email
   static const at_email =
       "assets/icons/software-mansion-curved-line-icons/at-email.svg";
 
@@ -72,19 +73,19 @@ class SoftwareMansionCurvedLinee {
   static const basketball =
       "assets/icons/software-mansion-curved-line-icons/basketball.svg";
 
-  /// Icon logo for bell-disabled
-  static const bell_disabled =
-      "assets/icons/software-mansion-curved-line-icons/bell-disabled.svg";
-
   /// Icon logo for bell
   static const bell =
       "assets/icons/software-mansion-curved-line-icons/bell.svg";
 
-  /// Icon logo for block-1
+  /// Icon logo for bell_disabled
+  static const bell_disabled =
+      "assets/icons/software-mansion-curved-line-icons/bell-disabled.svg";
+
+  /// Icon logo for block_1
   static const block_1 =
       "assets/icons/software-mansion-curved-line-icons/block-1.svg";
 
-  /// Icon logo for block-2
+  /// Icon logo for block_2
   static const block_2 =
       "assets/icons/software-mansion-curved-line-icons/block-2.svg";
 
@@ -92,76 +93,76 @@ class SoftwareMansionCurvedLinee {
   static const bolt =
       "assets/icons/software-mansion-curved-line-icons/bolt.svg";
 
-  /// Icon logo for bone-broken
-  static const bone_broken =
-      "assets/icons/software-mansion-curved-line-icons/bone-broken.svg";
-
   /// Icon logo for bone
   static const bone =
       "assets/icons/software-mansion-curved-line-icons/bone.svg";
+
+  /// Icon logo for bone_broken
+  static const bone_broken =
+      "assets/icons/software-mansion-curved-line-icons/bone-broken.svg";
 
   /// Icon logo for bookmark
   static const bookmark =
       "assets/icons/software-mansion-curved-line-icons/bookmark.svg";
 
-  /// Icon logo for calendar-check
-  static const calendar_check =
-      "assets/icons/software-mansion-curved-line-icons/calendar-check.svg";
-
-  /// Icon logo for calendar-clock
-  static const calendar_clock =
-      "assets/icons/software-mansion-curved-line-icons/calendar-clock.svg";
-
-  /// Icon logo for calendar-cross
-  static const calendar_cross =
-      "assets/icons/software-mansion-curved-line-icons/calendar-cross.svg";
-
-  /// Icon logo for calendar-edit
-  static const calendar_edit =
-      "assets/icons/software-mansion-curved-line-icons/calendar-edit.svg";
-
-  /// Icon logo for calendar-link
-  static const calendar_link =
-      "assets/icons/software-mansion-curved-line-icons/calendar-link.svg";
-
-  /// Icon logo for calendar-lock
-  static const calendar_lock =
-      "assets/icons/software-mansion-curved-line-icons/calendar-lock.svg";
-
-  /// Icon logo for calendar-minus
-  static const calendar_minus =
-      "assets/icons/software-mansion-curved-line-icons/calendar-minus.svg";
-
-  /// Icon logo for calendar-plus
-  static const calendar_plus =
-      "assets/icons/software-mansion-curved-line-icons/calendar-plus.svg";
-
-  /// Icon logo for calendar-user
-  static const calendar_user =
-      "assets/icons/software-mansion-curved-line-icons/calendar-user.svg";
-
-  /// Icon logo for calendar-warning
-  static const calendar_warning =
-      "assets/icons/software-mansion-curved-line-icons/calendar-warning.svg";
-
   /// Icon logo for calendar
   static const calendar =
       "assets/icons/software-mansion-curved-line-icons/calendar.svg";
 
-  /// Icon logo for cam-disabled
-  static const cam_disabled =
-      "assets/icons/software-mansion-curved-line-icons/cam-disabled.svg";
+  /// Icon logo for calendar_check
+  static const calendar_check =
+      "assets/icons/software-mansion-curved-line-icons/calendar-check.svg";
+
+  /// Icon logo for calendar_clock
+  static const calendar_clock =
+      "assets/icons/software-mansion-curved-line-icons/calendar-clock.svg";
+
+  /// Icon logo for calendar_cross
+  static const calendar_cross =
+      "assets/icons/software-mansion-curved-line-icons/calendar-cross.svg";
+
+  /// Icon logo for calendar_edit
+  static const calendar_edit =
+      "assets/icons/software-mansion-curved-line-icons/calendar-edit.svg";
+
+  /// Icon logo for calendar_link
+  static const calendar_link =
+      "assets/icons/software-mansion-curved-line-icons/calendar-link.svg";
+
+  /// Icon logo for calendar_lock
+  static const calendar_lock =
+      "assets/icons/software-mansion-curved-line-icons/calendar-lock.svg";
+
+  /// Icon logo for calendar_minus
+  static const calendar_minus =
+      "assets/icons/software-mansion-curved-line-icons/calendar-minus.svg";
+
+  /// Icon logo for calendar_plus
+  static const calendar_plus =
+      "assets/icons/software-mansion-curved-line-icons/calendar-plus.svg";
+
+  /// Icon logo for calendar_user
+  static const calendar_user =
+      "assets/icons/software-mansion-curved-line-icons/calendar-user.svg";
+
+  /// Icon logo for calendar_warning
+  static const calendar_warning =
+      "assets/icons/software-mansion-curved-line-icons/calendar-warning.svg";
 
   /// Icon logo for cam
   static const cam = "assets/icons/software-mansion-curved-line-icons/cam.svg";
 
-  /// Icon logo for camera-disabled
-  static const camera_disabled =
-      "assets/icons/software-mansion-curved-line-icons/camera-disabled.svg";
+  /// Icon logo for cam_disabled
+  static const cam_disabled =
+      "assets/icons/software-mansion-curved-line-icons/cam-disabled.svg";
 
   /// Icon logo for camera
   static const camera =
       "assets/icons/software-mansion-curved-line-icons/camera.svg";
+
+  /// Icon logo for camera_disabled
+  static const camera_disabled =
+      "assets/icons/software-mansion-curved-line-icons/camera-disabled.svg";
 
   /// Icon logo for capsule
   static const capsule =
@@ -171,19 +172,19 @@ class SoftwareMansionCurvedLinee {
   static const cardiology =
       "assets/icons/software-mansion-curved-line-icons/cardiology.svg";
 
-  /// Icon logo for cart-1
+  /// Icon logo for cart_1
   static const cart_1 =
       "assets/icons/software-mansion-curved-line-icons/cart-1.svg";
 
-  /// Icon logo for cart-2
+  /// Icon logo for cart_2
   static const cart_2 =
       "assets/icons/software-mansion-curved-line-icons/cart-2.svg";
 
-  /// Icon logo for cart-3
+  /// Icon logo for cart_3
   static const cart_3 =
       "assets/icons/software-mansion-curved-line-icons/cart-3.svg";
 
-  /// Icon logo for cart-4
+  /// Icon logo for cart_4
   static const cart_4 =
       "assets/icons/software-mansion-curved-line-icons/cart-4.svg";
 
@@ -191,71 +192,71 @@ class SoftwareMansionCurvedLinee {
   static const cast =
       "assets/icons/software-mansion-curved-line-icons/cast.svg";
 
-  /// Icon logo for chart-vertical
-  static const chart_vertical =
-      "assets/icons/software-mansion-curved-line-icons/chart-vertical.svg";
-
   /// Icon logo for chart
   static const chart =
       "assets/icons/software-mansion-curved-line-icons/chart.svg";
 
-  /// Icon logo for check-circle
-  static const check_circle =
-      "assets/icons/software-mansion-curved-line-icons/check-circle.svg";
-
-  /// Icon logo for check-small
-  static const check_small =
-      "assets/icons/software-mansion-curved-line-icons/check-small.svg";
+  /// Icon logo for chart_vertical
+  static const chart_vertical =
+      "assets/icons/software-mansion-curved-line-icons/chart-vertical.svg";
 
   /// Icon logo for check
   static const check =
       "assets/icons/software-mansion-curved-line-icons/check.svg";
 
-  /// Icon logo for chevron-circle-down
+  /// Icon logo for check_circle
+  static const check_circle =
+      "assets/icons/software-mansion-curved-line-icons/check-circle.svg";
+
+  /// Icon logo for check_small
+  static const check_small =
+      "assets/icons/software-mansion-curved-line-icons/check-small.svg";
+
+  /// Icon logo for chevron_circle_down
   static const chevron_circle_down =
       "assets/icons/software-mansion-curved-line-icons/chevron-circle-down.svg";
 
-  /// Icon logo for chevron-circle-left
+  /// Icon logo for chevron_circle_left
   static const chevron_circle_left =
       "assets/icons/software-mansion-curved-line-icons/chevron-circle-left.svg";
 
-  /// Icon logo for chevron-circle-right
+  /// Icon logo for chevron_circle_right
   static const chevron_circle_right =
       "assets/icons/software-mansion-curved-line-icons/chevron-circle-right.svg";
 
-  /// Icon logo for chevron-circle-up
+  /// Icon logo for chevron_circle_up
   static const chevron_circle_up =
       "assets/icons/software-mansion-curved-line-icons/chevron-circle-up.svg";
 
-  /// Icon logo for chevron-down
+  /// Icon logo for chevron_down
   static const chevron_down =
       "assets/icons/software-mansion-curved-line-icons/chevron-down.svg";
 
-  /// Icon logo for chevron-left
+  /// Icon logo for chevron_left
   static const chevron_left =
       "assets/icons/software-mansion-curved-line-icons/chevron-left.svg";
 
-  /// Icon logo for chevron-right
+  /// Icon logo for chevron_right
   static const chevron_right =
       "assets/icons/software-mansion-curved-line-icons/chevron-right.svg";
 
-  /// Icon logo for chevron-small-down
+  /// Icon logo for chevron_small_down
   static const chevron_small_down =
       "assets/icons/software-mansion-curved-line-icons/chevron-small-down.svg";
 
-  /// Icon logo for chevron-small-left
+  /// Icon logo for chevron_small_left
   static const chevron_small_left =
       "assets/icons/software-mansion-curved-line-icons/chevron-small-left.svg";
 
-  /// Icon logo for chevron-small-right
+  /// Icon logo for chevron_small_right
   static const chevron_small_right =
       "assets/icons/software-mansion-curved-line-icons/chevron-small-right.svg";
 
-  /// Icon logo for chevron-small-up
+  /// Icon logo for chevron_small_up
   static const chevron_small_up =
       "assets/icons/software-mansion-curved-line-icons/chevron-small-up.svg";
 
-  /// Icon logo for chevron-up
+  /// Icon logo for chevron_up
   static const chevron_up =
       "assets/icons/software-mansion-curved-line-icons/chevron-up.svg";
 
@@ -287,23 +288,23 @@ class SoftwareMansionCurvedLinee {
   static const creditcard =
       "assets/icons/software-mansion-curved-line-icons/creditcard.svg";
 
-  /// Icon logo for cross-circle
-  static const cross_circle =
-      "assets/icons/software-mansion-curved-line-icons/cross-circle.svg";
-
-  /// Icon logo for cross-small
-  static const cross_small =
-      "assets/icons/software-mansion-curved-line-icons/cross-small.svg";
-
   /// Icon logo for cross
   static const cross =
       "assets/icons/software-mansion-curved-line-icons/cross.svg";
 
-  /// Icon logo for crown-1
+  /// Icon logo for cross_circle
+  static const cross_circle =
+      "assets/icons/software-mansion-curved-line-icons/cross-circle.svg";
+
+  /// Icon logo for cross_small
+  static const cross_small =
+      "assets/icons/software-mansion-curved-line-icons/cross-small.svg";
+
+  /// Icon logo for crown_1
   static const crown_1 =
       "assets/icons/software-mansion-curved-line-icons/crown-1.svg";
 
-  /// Icon logo for crown-2
+  /// Icon logo for crown_2
   static const crown_2 =
       "assets/icons/software-mansion-curved-line-icons/crown-2.svg";
 
@@ -321,27 +322,27 @@ class SoftwareMansionCurvedLinee {
   /// Icon logo for dna
   static const dna = "assets/icons/software-mansion-curved-line-icons/dna.svg";
 
-  /// Icon logo for document-check
+  /// Icon logo for document_check
   static const document_check =
       "assets/icons/software-mansion-curved-line-icons/document-check.svg";
 
-  /// Icon logo for document-clean
+  /// Icon logo for document_clean
   static const document_clean =
       "assets/icons/software-mansion-curved-line-icons/document-clean.svg";
 
-  /// Icon logo for document-cross
+  /// Icon logo for document_cross
   static const document_cross =
       "assets/icons/software-mansion-curved-line-icons/document-cross.svg";
 
-  /// Icon logo for document-filled
+  /// Icon logo for document_filled
   static const document_filled =
       "assets/icons/software-mansion-curved-line-icons/document-filled.svg";
 
-  /// Icon logo for document-minus
+  /// Icon logo for document_minus
   static const document_minus =
       "assets/icons/software-mansion-curved-line-icons/document-minus.svg";
 
-  /// Icon logo for document-plus
+  /// Icon logo for document_plus
   static const document_plus =
       "assets/icons/software-mansion-curved-line-icons/document-plus.svg";
 
@@ -349,31 +350,31 @@ class SoftwareMansionCurvedLinee {
   static const download =
       "assets/icons/software-mansion-curved-line-icons/download.svg";
 
-  /// Icon logo for edit-1
+  /// Icon logo for edit_1
   static const edit_1 =
       "assets/icons/software-mansion-curved-line-icons/edit-1.svg";
 
-  /// Icon logo for edit-2
+  /// Icon logo for edit_2
   static const edit_2 =
       "assets/icons/software-mansion-curved-line-icons/edit-2.svg";
 
-  /// Icon logo for edit-3
+  /// Icon logo for edit_3
   static const edit_3 =
       "assets/icons/software-mansion-curved-line-icons/edit-3.svg";
 
-  /// Icon logo for edit-4
+  /// Icon logo for edit_4
   static const edit_4 =
       "assets/icons/software-mansion-curved-line-icons/edit-4.svg";
 
-  /// Icon logo for emote-normal
+  /// Icon logo for emote_normal
   static const emote_normal =
       "assets/icons/software-mansion-curved-line-icons/emote-normal.svg";
 
-  /// Icon logo for emote-sad
+  /// Icon logo for emote_sad
   static const emote_sad =
       "assets/icons/software-mansion-curved-line-icons/emote-sad.svg";
 
-  /// Icon logo for emote-smile
+  /// Icon logo for emote_smile
   static const emote_smile =
       "assets/icons/software-mansion-curved-line-icons/emote-smile.svg";
 
@@ -381,11 +382,11 @@ class SoftwareMansionCurvedLinee {
   static const explore =
       "assets/icons/software-mansion-curved-line-icons/explore.svg";
 
-  /// Icon logo for eye-closed
+  /// Icon logo for eye_closed
   static const eye_closed =
       "assets/icons/software-mansion-curved-line-icons/eye-closed.svg";
 
-  /// Icon logo for eye-open
+  /// Icon logo for eye_open
   static const eye_open =
       "assets/icons/software-mansion-curved-line-icons/eye-open.svg";
 
@@ -397,27 +398,27 @@ class SoftwareMansionCurvedLinee {
   static const female =
       "assets/icons/software-mansion-curved-line-icons/female.svg";
 
-  /// Icon logo for filters-1
+  /// Icon logo for filters_1
   static const filters_1 =
       "assets/icons/software-mansion-curved-line-icons/filters-1.svg";
 
-  /// Icon logo for filters-2
+  /// Icon logo for filters_2
   static const filters_2 =
       "assets/icons/software-mansion-curved-line-icons/filters-2.svg";
 
-  /// Icon logo for filters-3
+  /// Icon logo for filters_3
   static const filters_3 =
       "assets/icons/software-mansion-curved-line-icons/filters-3.svg";
 
-  /// Icon logo for flag-1
+  /// Icon logo for flag_1
   static const flag_1 =
       "assets/icons/software-mansion-curved-line-icons/flag-1.svg";
 
-  /// Icon logo for flag-2
+  /// Icon logo for flag_2
   static const flag_2 =
       "assets/icons/software-mansion-curved-line-icons/flag-2.svg";
 
-  /// Icon logo for flag-3
+  /// Icon logo for flag_3
   static const flag_3 =
       "assets/icons/software-mansion-curved-line-icons/flag-3.svg";
 
@@ -433,19 +434,19 @@ class SoftwareMansionCurvedLinee {
   static const gift =
       "assets/icons/software-mansion-curved-line-icons/gift.svg";
 
-  /// Icon logo for globe-1
+  /// Icon logo for globe_1
   static const globe_1 =
       "assets/icons/software-mansion-curved-line-icons/globe-1.svg";
 
-  /// Icon logo for grid-2-horizontal
+  /// Icon logo for grid_2_horizontal
   static const grid_2_horizontal =
       "assets/icons/software-mansion-curved-line-icons/grid-2-horizontal.svg";
 
-  /// Icon logo for grid-2-vertical
+  /// Icon logo for grid_2_vertical
   static const grid_2_vertical =
       "assets/icons/software-mansion-curved-line-icons/grid-2-vertical.svg";
 
-  /// Icon logo for grid-4
+  /// Icon logo for grid_4
   static const grid_4 =
       "assets/icons/software-mansion-curved-line-icons/grid-4.svg";
 
@@ -457,15 +458,15 @@ class SoftwareMansionCurvedLinee {
   static const heart =
       "assets/icons/software-mansion-curved-line-icons/heart.svg";
 
-  /// Icon logo for home-1
+  /// Icon logo for home_1
   static const home_1 =
       "assets/icons/software-mansion-curved-line-icons/home-1.svg";
 
-  /// Icon logo for home-2
+  /// Icon logo for home_2
   static const home_2 =
       "assets/icons/software-mansion-curved-line-icons/home-2.svg";
 
-  /// Icon logo for home-hospital
+  /// Icon logo for home_hospital
   static const home_hospital =
       "assets/icons/software-mansion-curved-line-icons/home-hospital.svg";
 
@@ -480,7 +481,7 @@ class SoftwareMansionCurvedLinee {
   /// Icon logo for ice
   static const ice = "assets/icons/software-mansion-curved-line-icons/ice.svg";
 
-  /// Icon logo for image-1
+  /// Icon logo for image_1
   static const image_1 =
       "assets/icons/software-mansion-curved-line-icons/image-1.svg";
 
@@ -488,17 +489,17 @@ class SoftwareMansionCurvedLinee {
   static const inbox =
       "assets/icons/software-mansion-curved-line-icons/inbox.svg";
 
-  /// Icon logo for info-circle
-  static const info_circle =
-      "assets/icons/software-mansion-curved-line-icons/info-circle.svg";
-
-  /// Icon logo for info-small
-  static const info_small =
-      "assets/icons/software-mansion-curved-line-icons/info-small.svg";
-
   /// Icon logo for info
   static const info =
       "assets/icons/software-mansion-curved-line-icons/info.svg";
+
+  /// Icon logo for info_circle
+  static const info_circle =
+      "assets/icons/software-mansion-curved-line-icons/info-circle.svg";
+
+  /// Icon logo for info_small
+  static const info_small =
+      "assets/icons/software-mansion-curved-line-icons/info-small.svg";
 
   /// Icon logo for key
   static const key = "assets/icons/software-mansion-curved-line-icons/key.svg";
@@ -515,43 +516,43 @@ class SoftwareMansionCurvedLinee {
   static const link =
       "assets/icons/software-mansion-curved-line-icons/link.svg";
 
-  /// Icon logo for list-center
+  /// Icon logo for list_center
   static const list_center =
       "assets/icons/software-mansion-curved-line-icons/list-center.svg";
 
-  /// Icon logo for list-left
+  /// Icon logo for list_left
   static const list_left =
       "assets/icons/software-mansion-curved-line-icons/list-left.svg";
 
-  /// Icon logo for list-pointers
+  /// Icon logo for list_pointers
   static const list_pointers =
       "assets/icons/software-mansion-curved-line-icons/list-pointers.svg";
 
-  /// Icon logo for list-right
+  /// Icon logo for list_right
   static const list_right =
       "assets/icons/software-mansion-curved-line-icons/list-right.svg";
 
-  /// Icon logo for location-1
+  /// Icon logo for location_1
   static const location_1 =
       "assets/icons/software-mansion-curved-line-icons/location-1.svg";
 
-  /// Icon logo for location-2
+  /// Icon logo for location_2
   static const location_2 =
       "assets/icons/software-mansion-curved-line-icons/location-2.svg";
 
-  /// Icon logo for location-med-1
+  /// Icon logo for location_med_1
   static const location_med_1 =
       "assets/icons/software-mansion-curved-line-icons/location-med-1.svg";
 
-  /// Icon logo for location-med-2
+  /// Icon logo for location_med_2
   static const location_med_2 =
       "assets/icons/software-mansion-curved-line-icons/location-med-2.svg";
 
-  /// Icon logo for lock-off
+  /// Icon logo for lock_off
   static const lock_off =
       "assets/icons/software-mansion-curved-line-icons/lock-off.svg";
 
-  /// Icon logo for lock-on
+  /// Icon logo for lock_on
   static const lock_on =
       "assets/icons/software-mansion-curved-line-icons/lock-on.svg";
 
@@ -582,61 +583,61 @@ class SoftwareMansionCurvedLinee {
   static const meds =
       "assets/icons/software-mansion-curved-line-icons/meds.svg";
 
-  /// Icon logo for menu-hamburger
+  /// Icon logo for menu_hamburger
   static const menu_hamburger =
       "assets/icons/software-mansion-curved-line-icons/menu-hamburger.svg";
 
-  /// Icon logo for menu-horizontal
+  /// Icon logo for menu_horizontal
   static const menu_horizontal =
       "assets/icons/software-mansion-curved-line-icons/menu-horizontal.svg";
 
-  /// Icon logo for menu-vertical
+  /// Icon logo for menu_vertical
   static const menu_vertical =
       "assets/icons/software-mansion-curved-line-icons/menu-vertical.svg";
 
-  /// Icon logo for message-circle-dots
-  static const message_circle_dots =
-      "assets/icons/software-mansion-curved-line-icons/message-circle-dots.svg";
-
-  /// Icon logo for message-circle-lines
-  static const message_circle_lines =
-      "assets/icons/software-mansion-curved-line-icons/message-circle-lines.svg";
-
-  /// Icon logo for message-circle
+  /// Icon logo for message_circle
   static const message_circle =
       "assets/icons/software-mansion-curved-line-icons/message-circle.svg";
 
-  /// Icon logo for message-square-dots
-  static const message_square_dots =
-      "assets/icons/software-mansion-curved-line-icons/message-square-dots.svg";
+  /// Icon logo for message_circle_dots
+  static const message_circle_dots =
+      "assets/icons/software-mansion-curved-line-icons/message-circle-dots.svg";
 
-  /// Icon logo for message-square-lines
-  static const message_square_lines =
-      "assets/icons/software-mansion-curved-line-icons/message-square-lines.svg";
+  /// Icon logo for message_circle_lines
+  static const message_circle_lines =
+      "assets/icons/software-mansion-curved-line-icons/message-circle-lines.svg";
 
-  /// Icon logo for message-square
+  /// Icon logo for message_square
   static const message_square =
       "assets/icons/software-mansion-curved-line-icons/message-square.svg";
 
-  /// Icon logo for microphone-disabled
-  static const microphone_disabled =
-      "assets/icons/software-mansion-curved-line-icons/microphone-disabled.svg";
+  /// Icon logo for message_square_dots
+  static const message_square_dots =
+      "assets/icons/software-mansion-curved-line-icons/message-square-dots.svg";
+
+  /// Icon logo for message_square_lines
+  static const message_square_lines =
+      "assets/icons/software-mansion-curved-line-icons/message-square-lines.svg";
 
   /// Icon logo for microphone
   static const microphone =
       "assets/icons/software-mansion-curved-line-icons/microphone.svg";
 
-  /// Icon logo for minus-circle
-  static const minus_circle =
-      "assets/icons/software-mansion-curved-line-icons/minus-circle.svg";
-
-  /// Icon logo for minus-small
-  static const minus_small =
-      "assets/icons/software-mansion-curved-line-icons/minus-small.svg";
+  /// Icon logo for microphone_disabled
+  static const microphone_disabled =
+      "assets/icons/software-mansion-curved-line-icons/microphone-disabled.svg";
 
   /// Icon logo for minus
   static const minus =
       "assets/icons/software-mansion-curved-line-icons/minus.svg";
+
+  /// Icon logo for minus_circle
+  static const minus_circle =
+      "assets/icons/software-mansion-curved-line-icons/minus-circle.svg";
+
+  /// Icon logo for minus_small
+  static const minus_small =
+      "assets/icons/software-mansion-curved-line-icons/minus-small.svg";
 
   /// Icon logo for money
   static const money =
@@ -674,47 +675,47 @@ class SoftwareMansionCurvedLinee {
   static const pause =
       "assets/icons/software-mansion-curved-line-icons/pause.svg";
 
-  /// Icon logo for phone-call
-  static const phone_call =
-      "assets/icons/software-mansion-curved-line-icons/phone-call.svg";
-
-  /// Icon logo for phone-cross
-  static const phone_cross =
-      "assets/icons/software-mansion-curved-line-icons/phone-cross.svg";
-
-  /// Icon logo for phone-down
-  static const phone_down =
-      "assets/icons/software-mansion-curved-line-icons/phone-down.svg";
-
   /// Icon logo for phone
   static const phone =
       "assets/icons/software-mansion-curved-line-icons/phone.svg";
 
-  /// Icon logo for pin-1
+  /// Icon logo for phone_call
+  static const phone_call =
+      "assets/icons/software-mansion-curved-line-icons/phone-call.svg";
+
+  /// Icon logo for phone_cross
+  static const phone_cross =
+      "assets/icons/software-mansion-curved-line-icons/phone-cross.svg";
+
+  /// Icon logo for phone_down
+  static const phone_down =
+      "assets/icons/software-mansion-curved-line-icons/phone-down.svg";
+
+  /// Icon logo for pin_1
   static const pin_1 =
       "assets/icons/software-mansion-curved-line-icons/pin-1.svg";
 
-  /// Icon logo for pin-2
+  /// Icon logo for pin_2
   static const pin_2 =
       "assets/icons/software-mansion-curved-line-icons/pin-2.svg";
 
-  /// Icon logo for pinpaper-check
+  /// Icon logo for pinpaper_check
   static const pinpaper_check =
       "assets/icons/software-mansion-curved-line-icons/pinpaper-check.svg";
 
-  /// Icon logo for pinpaper-cross
+  /// Icon logo for pinpaper_cross
   static const pinpaper_cross =
       "assets/icons/software-mansion-curved-line-icons/pinpaper-cross.svg";
 
-  /// Icon logo for pinpaper-filled
+  /// Icon logo for pinpaper_filled
   static const pinpaper_filled =
       "assets/icons/software-mansion-curved-line-icons/pinpaper-filled.svg";
 
-  /// Icon logo for pinpaper-minus
+  /// Icon logo for pinpaper_minus
   static const pinpaper_minus =
       "assets/icons/software-mansion-curved-line-icons/pinpaper-minus.svg";
 
-  /// Icon logo for pinpaper-plus
+  /// Icon logo for pinpaper_plus
   static const pinpaper_plus =
       "assets/icons/software-mansion-curved-line-icons/pinpaper-plus.svg";
 
@@ -722,17 +723,17 @@ class SoftwareMansionCurvedLinee {
   static const play =
       "assets/icons/software-mansion-curved-line-icons/play.svg";
 
-  /// Icon logo for plus-circle
-  static const plus_circle =
-      "assets/icons/software-mansion-curved-line-icons/plus-circle.svg";
-
-  /// Icon logo for plus-small
-  static const plus_small =
-      "assets/icons/software-mansion-curved-line-icons/plus-small.svg";
-
   /// Icon logo for plus
   static const plus =
       "assets/icons/software-mansion-curved-line-icons/plus.svg";
+
+  /// Icon logo for plus_circle
+  static const plus_circle =
+      "assets/icons/software-mansion-curved-line-icons/plus-circle.svg";
+
+  /// Icon logo for plus_small
+  static const plus_small =
+      "assets/icons/software-mansion-curved-line-icons/plus-small.svg";
 
   /// Icon logo for power
   static const power =
@@ -746,59 +747,59 @@ class SoftwareMansionCurvedLinee {
   static const print =
       "assets/icons/software-mansion-curved-line-icons/print.svg";
 
-  /// Icon logo for question-circle
-  static const question_circle =
-      "assets/icons/software-mansion-curved-line-icons/question-circle.svg";
-
-  /// Icon logo for question-small
-  static const question_small =
-      "assets/icons/software-mansion-curved-line-icons/question-small.svg";
-
   /// Icon logo for question
   static const question =
       "assets/icons/software-mansion-curved-line-icons/question.svg";
+
+  /// Icon logo for question_circle
+  static const question_circle =
+      "assets/icons/software-mansion-curved-line-icons/question-circle.svg";
+
+  /// Icon logo for question_small
+  static const question_small =
+      "assets/icons/software-mansion-curved-line-icons/question-small.svg";
 
   /// Icon logo for quote
   static const quote =
       "assets/icons/software-mansion-curved-line-icons/quote.svg";
 
-  /// Icon logo for redo-circle
-  static const redo_circle =
-      "assets/icons/software-mansion-curved-line-icons/redo-circle.svg";
-
-  /// Icon logo for redo-small
-  static const redo_small =
-      "assets/icons/software-mansion-curved-line-icons/redo-small.svg";
-
   /// Icon logo for redo
   static const redo =
       "assets/icons/software-mansion-curved-line-icons/redo.svg";
 
-  /// Icon logo for refresh-circle
-  static const refresh_circle =
-      "assets/icons/software-mansion-curved-line-icons/refresh-circle.svg";
+  /// Icon logo for redo_circle
+  static const redo_circle =
+      "assets/icons/software-mansion-curved-line-icons/redo-circle.svg";
 
-  /// Icon logo for refresh-small
-  static const refresh_small =
-      "assets/icons/software-mansion-curved-line-icons/refresh-small.svg";
+  /// Icon logo for redo_small
+  static const redo_small =
+      "assets/icons/software-mansion-curved-line-icons/redo-small.svg";
 
   /// Icon logo for refresh
   static const refresh =
       "assets/icons/software-mansion-curved-line-icons/refresh.svg";
 
-  /// Icon logo for resize-circle-horizontal
+  /// Icon logo for refresh_circle
+  static const refresh_circle =
+      "assets/icons/software-mansion-curved-line-icons/refresh-circle.svg";
+
+  /// Icon logo for refresh_small
+  static const refresh_small =
+      "assets/icons/software-mansion-curved-line-icons/refresh-small.svg";
+
+  /// Icon logo for resize_circle_horizontal
   static const resize_circle_horizontal =
       "assets/icons/software-mansion-curved-line-icons/resize-circle-horizontal.svg";
 
-  /// Icon logo for resize-circle-vertical
+  /// Icon logo for resize_circle_vertical
   static const resize_circle_vertical =
       "assets/icons/software-mansion-curved-line-icons/resize-circle-vertical.svg";
 
-  /// Icon logo for resize-small-horizontal
+  /// Icon logo for resize_small_horizontal
   static const resize_small_horizontal =
       "assets/icons/software-mansion-curved-line-icons/resize-small-horizontal.svg";
 
-  /// Icon logo for resize-small-vertical
+  /// Icon logo for resize_small_vertical
   static const resize_small_vertical =
       "assets/icons/software-mansion-curved-line-icons/resize-small-vertical.svg";
 
@@ -806,27 +807,27 @@ class SoftwareMansionCurvedLinee {
   static const rewind =
       "assets/icons/software-mansion-curved-line-icons/rewind.svg";
 
-  /// Icon logo for rotate-circle-left
+  /// Icon logo for rotate_circle_left
   static const rotate_circle_left =
       "assets/icons/software-mansion-curved-line-icons/rotate-circle-left.svg";
 
-  /// Icon logo for rotate-circle-right
+  /// Icon logo for rotate_circle_right
   static const rotate_circle_right =
       "assets/icons/software-mansion-curved-line-icons/rotate-circle-right.svg";
 
-  /// Icon logo for rotate-left
+  /// Icon logo for rotate_left
   static const rotate_left =
       "assets/icons/software-mansion-curved-line-icons/rotate-left.svg";
 
-  /// Icon logo for rotate-right
+  /// Icon logo for rotate_right
   static const rotate_right =
       "assets/icons/software-mansion-curved-line-icons/rotate-right.svg";
 
-  /// Icon logo for rotate-small-left
+  /// Icon logo for rotate_small_left
   static const rotate_small_left =
       "assets/icons/software-mansion-curved-line-icons/rotate-small-left.svg";
 
-  /// Icon logo for rotate-small-right
+  /// Icon logo for rotate_small_right
   static const rotate_small_right =
       "assets/icons/software-mansion-curved-line-icons/rotate-small-right.svg";
 
@@ -834,27 +835,27 @@ class SoftwareMansionCurvedLinee {
   static const save =
       "assets/icons/software-mansion-curved-line-icons/save.svg";
 
-  /// Icon logo for screen-disabled
-  static const screen_disabled =
-      "assets/icons/software-mansion-curved-line-icons/screen-disabled.svg";
-
-  /// Icon logo for screen-share
-  static const screen_share =
-      "assets/icons/software-mansion-curved-line-icons/screen-share.svg";
-
   /// Icon logo for screen
   static const screen =
       "assets/icons/software-mansion-curved-line-icons/screen.svg";
+
+  /// Icon logo for screen_disabled
+  static const screen_disabled =
+      "assets/icons/software-mansion-curved-line-icons/screen-disabled.svg";
+
+  /// Icon logo for screen_share
+  static const screen_share =
+      "assets/icons/software-mansion-curved-line-icons/screen-share.svg";
 
   /// Icon logo for search
   static const search =
       "assets/icons/software-mansion-curved-line-icons/search.svg";
 
-  /// Icon logo for send-1
+  /// Icon logo for send_1
   static const send_1 =
       "assets/icons/software-mansion-curved-line-icons/send-1.svg";
 
-  /// Icon logo for send-2
+  /// Icon logo for send_2
   static const send_2 =
       "assets/icons/software-mansion-curved-line-icons/send-2.svg";
 
@@ -862,23 +863,23 @@ class SoftwareMansionCurvedLinee {
   static const settings =
       "assets/icons/software-mansion-curved-line-icons/settings.svg";
 
-  /// Icon logo for share-1
+  /// Icon logo for share_1
   static const share_1 =
       "assets/icons/software-mansion-curved-line-icons/share-1.svg";
 
-  /// Icon logo for share-2
+  /// Icon logo for share_2
   static const share_2 =
       "assets/icons/software-mansion-curved-line-icons/share-2.svg";
 
-  /// Icon logo for shield-check
+  /// Icon logo for shield_check
   static const shield_check =
       "assets/icons/software-mansion-curved-line-icons/shield-check.svg";
 
-  /// Icon logo for shield-cross
+  /// Icon logo for shield_cross
   static const shield_cross =
       "assets/icons/software-mansion-curved-line-icons/shield-cross.svg";
 
-  /// Icon logo for shield-empty
+  /// Icon logo for shield_empty
   static const shield_empty =
       "assets/icons/software-mansion-curved-line-icons/shield-empty.svg";
 
@@ -890,43 +891,43 @@ class SoftwareMansionCurvedLinee {
   static const smartphone =
       "assets/icons/software-mansion-curved-line-icons/smartphone.svg";
 
-  /// Icon logo for sound-0
+  /// Icon logo for sound_0
   static const sound_0 =
       "assets/icons/software-mansion-curved-line-icons/sound-0.svg";
 
-  /// Icon logo for sound-1
+  /// Icon logo for sound_1
   static const sound_1 =
       "assets/icons/software-mansion-curved-line-icons/sound-1.svg";
 
-  /// Icon logo for sound-2
+  /// Icon logo for sound_2
   static const sound_2 =
       "assets/icons/software-mansion-curved-line-icons/sound-2.svg";
 
-  /// Icon logo for speaker-0
+  /// Icon logo for speaker_0
   static const speaker_0 =
       "assets/icons/software-mansion-curved-line-icons/speaker-0.svg";
 
-  /// Icon logo for speaker-1
+  /// Icon logo for speaker_1
   static const speaker_1 =
       "assets/icons/software-mansion-curved-line-icons/speaker-1.svg";
 
-  /// Icon logo for speaker-2
+  /// Icon logo for speaker_2
   static const speaker_2 =
       "assets/icons/software-mansion-curved-line-icons/speaker-2.svg";
 
-  /// Icon logo for speaker-cross
+  /// Icon logo for speaker_cross
   static const speaker_cross =
       "assets/icons/software-mansion-curved-line-icons/speaker-cross.svg";
 
-  /// Icon logo for speaker-disabled
+  /// Icon logo for speaker_disabled
   static const speaker_disabled =
       "assets/icons/software-mansion-curved-line-icons/speaker-disabled.svg";
 
-  /// Icon logo for star-1
+  /// Icon logo for star_1
   static const star_1 =
       "assets/icons/software-mansion-curved-line-icons/star-1.svg";
 
-  /// Icon logo for star-2
+  /// Icon logo for star_2
   static const star_2 =
       "assets/icons/software-mansion-curved-line-icons/star-2.svg";
 
@@ -952,7 +953,7 @@ class SoftwareMansionCurvedLinee {
   /// Icon logo for tag
   static const tag = "assets/icons/software-mansion-curved-line-icons/tag.svg";
 
-  /// Icon logo for test-tube
+  /// Icon logo for test_tube
   static const test_tube =
       "assets/icons/software-mansion-curved-line-icons/test-tube.svg";
 
@@ -960,19 +961,19 @@ class SoftwareMansionCurvedLinee {
   static const tooth =
       "assets/icons/software-mansion-curved-line-icons/tooth.svg";
 
-  /// Icon logo for trash-1
+  /// Icon logo for trash_1
   static const trash_1 =
       "assets/icons/software-mansion-curved-line-icons/trash-1.svg";
 
-  /// Icon logo for trash-2
+  /// Icon logo for trash_2
   static const trash_2 =
       "assets/icons/software-mansion-curved-line-icons/trash-2.svg";
 
-  /// Icon logo for trending-down
+  /// Icon logo for trending_down
   static const trending_down =
       "assets/icons/software-mansion-curved-line-icons/trending-down.svg";
 
-  /// Icon logo for trending-up
+  /// Icon logo for trending_up
   static const trending_up =
       "assets/icons/software-mansion-curved-line-icons/trending-up.svg";
 
@@ -980,73 +981,73 @@ class SoftwareMansionCurvedLinee {
   static const trophy =
       "assets/icons/software-mansion-curved-line-icons/trophy.svg";
 
-  /// Icon logo for umbrella-1
+  /// Icon logo for umbrella_1
   static const umbrella_1 =
       "assets/icons/software-mansion-curved-line-icons/umbrella-1.svg";
 
-  /// Icon logo for umbrella-2
+  /// Icon logo for umbrella_2
   static const umbrella_2 =
       "assets/icons/software-mansion-curved-line-icons/umbrella-2.svg";
-
-  /// Icon logo for undo-circle
-  static const undo_circle =
-      "assets/icons/software-mansion-curved-line-icons/undo-circle.svg";
-
-  /// Icon logo for undo-small
-  static const undo_small =
-      "assets/icons/software-mansion-curved-line-icons/undo-small.svg";
 
   /// Icon logo for undo
   static const undo =
       "assets/icons/software-mansion-curved-line-icons/undo.svg";
 
+  /// Icon logo for undo_circle
+  static const undo_circle =
+      "assets/icons/software-mansion-curved-line-icons/undo-circle.svg";
+
+  /// Icon logo for undo_small
+  static const undo_small =
+      "assets/icons/software-mansion-curved-line-icons/undo-small.svg";
+
   /// Icon logo for upload
   static const upload =
       "assets/icons/software-mansion-curved-line-icons/upload.svg";
 
-  /// Icon logo for user-1
+  /// Icon logo for user_1
   static const user_1 =
       "assets/icons/software-mansion-curved-line-icons/user-1.svg";
 
-  /// Icon logo for user-2
+  /// Icon logo for user_2
   static const user_2 =
       "assets/icons/software-mansion-curved-line-icons/user-2.svg";
 
-  /// Icon logo for user-check
+  /// Icon logo for user_check
   static const user_check =
       "assets/icons/software-mansion-curved-line-icons/user-check.svg";
 
-  /// Icon logo for user-cross
+  /// Icon logo for user_cross
   static const user_cross =
       "assets/icons/software-mansion-curved-line-icons/user-cross.svg";
 
-  /// Icon logo for user-info
+  /// Icon logo for user_info
   static const user_info =
       "assets/icons/software-mansion-curved-line-icons/user-info.svg";
 
-  /// Icon logo for user-minus
+  /// Icon logo for user_minus
   static const user_minus =
       "assets/icons/software-mansion-curved-line-icons/user-minus.svg";
 
-  /// Icon logo for user-plus
+  /// Icon logo for user_plus
   static const user_plus =
       "assets/icons/software-mansion-curved-line-icons/user-plus.svg";
 
-  /// Icon logo for user-question
+  /// Icon logo for user_question
   static const user_question =
       "assets/icons/software-mansion-curved-line-icons/user-question.svg";
-
-  /// Icon logo for user-warning
-  static const user_warning =
-      "assets/icons/software-mansion-curved-line-icons/user-warning.svg";
-
-  /// Icon logo for users-more
-  static const users_more =
-      "assets/icons/software-mansion-curved-line-icons/users-more.svg";
 
   /// Icon logo for users
   static const users =
       "assets/icons/software-mansion-curved-line-icons/users.svg";
+
+  /// Icon logo for users_more
+  static const users_more =
+      "assets/icons/software-mansion-curved-line-icons/users-more.svg";
+
+  /// Icon logo for user_warning
+  static const user_warning =
+      "assets/icons/software-mansion-curved-line-icons/user-warning.svg";
 
   /// Icon logo for vertical
   static const vertical =
@@ -1064,17 +1065,17 @@ class SoftwareMansionCurvedLinee {
   static const wand =
       "assets/icons/software-mansion-curved-line-icons/wand.svg";
 
-  /// Icon logo for warning-circle
-  static const warning_circle =
-      "assets/icons/software-mansion-curved-line-icons/warning-circle.svg";
-
-  /// Icon logo for warning-small
-  static const warning_small =
-      "assets/icons/software-mansion-curved-line-icons/warning-small.svg";
-
   /// Icon logo for warning
   static const warning =
       "assets/icons/software-mansion-curved-line-icons/warning.svg";
+
+  /// Icon logo for warning_circle
+  static const warning_circle =
+      "assets/icons/software-mansion-curved-line-icons/warning-circle.svg";
+
+  /// Icon logo for warning_small
+  static const warning_small =
+      "assets/icons/software-mansion-curved-line-icons/warning-small.svg";
 
   /// Icon logo for waterdrop
   static const waterdrop =
@@ -1084,11 +1085,12 @@ class SoftwareMansionCurvedLinee {
   static const windows =
       "assets/icons/software-mansion-curved-line-icons/windows.svg";
 
-  /// Icon logo for zoom-in
+  /// Icon logo for zoom_in
   static const zoom_in =
       "assets/icons/software-mansion-curved-line-icons/zoom-in.svg";
 
-  /// Icon logo for zoom-out
+  /// Icon logo for zoom_out
   static const zoom_out =
       "assets/icons/software-mansion-curved-line-icons/zoom-out.svg";
 }
+

@@ -1,46 +1,47 @@
-// ignore_for_file: constant_identifier_names
+﻿// ignore_for_file: constant_identifier_names
 
 class IconwrapFilledInterface {
-  /// Icon logo for add-box
-  static const add_box =
-      "assets/icons/iconwrap-filled-interface-icons/add-box.svg";
-
-  /// Icon logo for add-circle
-  static const add_circle =
-      "assets/icons/iconwrap-filled-interface-icons/add-circle.svg";
 
   /// Icon logo for add
   static const add = "assets/icons/iconwrap-filled-interface-icons/add.svg";
 
-  /// Icon logo for arrow-long-down
+  /// Icon logo for add_box
+  static const add_box =
+      "assets/icons/iconwrap-filled-interface-icons/add-box.svg";
+
+  /// Icon logo for add_circle
+  static const add_circle =
+      "assets/icons/iconwrap-filled-interface-icons/add-circle.svg";
+
+  /// Icon logo for arrow_long_down
   static const arrow_long_down =
       "assets/icons/iconwrap-filled-interface-icons/arrow-long-down.svg";
 
-  /// Icon logo for arrow-long-left
+  /// Icon logo for arrow_long_left
   static const arrow_long_left =
       "assets/icons/iconwrap-filled-interface-icons/arrow-long-left.svg";
 
-  /// Icon logo for arrow-long-right
+  /// Icon logo for arrow_long_right
   static const arrow_long_right =
       "assets/icons/iconwrap-filled-interface-icons/arrow-long-right.svg";
 
-  /// Icon logo for arrow-long-up
+  /// Icon logo for arrow_long_up
   static const arrow_long_up =
       "assets/icons/iconwrap-filled-interface-icons/arrow-long-up.svg";
 
-  /// Icon logo for arrow-short-down
+  /// Icon logo for arrow_short_down
   static const arrow_short_down =
       "assets/icons/iconwrap-filled-interface-icons/arrow-short-down.svg";
 
-  /// Icon logo for arrow-short-left
+  /// Icon logo for arrow_short_left
   static const arrow_short_left =
       "assets/icons/iconwrap-filled-interface-icons/arrow-short-left.svg";
 
-  /// Icon logo for arrow-short-right
+  /// Icon logo for arrow_short_right
   static const arrow_short_right =
       "assets/icons/iconwrap-filled-interface-icons/arrow-short-right.svg";
 
-  /// Icon logo for arrow-short-up
+  /// Icon logo for arrow_short_up
   static const arrow_short_up =
       "assets/icons/iconwrap-filled-interface-icons/arrow-short-up.svg";
 
@@ -48,19 +49,19 @@ class IconwrapFilledInterface {
   static const attach =
       "assets/icons/iconwrap-filled-interface-icons/attach.svg";
 
-  /// Icon logo for battery-empty
+  /// Icon logo for battery_empty
   static const battery_empty =
       "assets/icons/iconwrap-filled-interface-icons/battery-empty.svg";
 
-  /// Icon logo for battery-full
+  /// Icon logo for battery_full
   static const battery_full =
       "assets/icons/iconwrap-filled-interface-icons/battery-full.svg";
 
-  /// Icon logo for battery-low
+  /// Icon logo for battery_low
   static const battery_low =
       "assets/icons/iconwrap-filled-interface-icons/battery-low.svg";
 
-  /// Icon logo for battery-semi
+  /// Icon logo for battery_semi
   static const battery_semi =
       "assets/icons/iconwrap-filled-interface-icons/battery-semi.svg";
 
@@ -68,53 +69,53 @@ class IconwrapFilledInterface {
   static const bookmark =
       "assets/icons/iconwrap-filled-interface-icons/bookmark.svg";
 
-  /// Icon logo for calendar-cells
+  /// Icon logo for calendar_cells
   static const calendar_cells =
       "assets/icons/iconwrap-filled-interface-icons/calendar-cells.svg";
 
-  /// Icon logo for calendar-day
+  /// Icon logo for calendar_day
   static const calendar_day =
       "assets/icons/iconwrap-filled-interface-icons/calendar-day.svg";
 
-  /// Icon logo for calendar-empty
+  /// Icon logo for calendar_empty
   static const calendar_empty =
       "assets/icons/iconwrap-filled-interface-icons/calendar-empty.svg";
 
-  /// Icon logo for calendar-line
+  /// Icon logo for calendar_line
   static const calendar_line =
       "assets/icons/iconwrap-filled-interface-icons/calendar-line.svg";
 
   /// Icon logo for call
   static const call = "assets/icons/iconwrap-filled-interface-icons/call.svg";
 
-  /// Icon logo for check-box
+  /// Icon logo for check
+  static const check = "assets/icons/iconwrap-filled-interface-icons/check.svg";
+
+  /// Icon logo for check_box
   static const check_box =
       "assets/icons/iconwrap-filled-interface-icons/check-box.svg";
 
-  /// Icon logo for check-circle
+  /// Icon logo for check_circle
   static const check_circle =
       "assets/icons/iconwrap-filled-interface-icons/check-circle.svg";
-
-  /// Icon logo for check
-  static const check = "assets/icons/iconwrap-filled-interface-icons/check.svg";
 
   /// Icon logo for chronometer
   static const chronometer =
       "assets/icons/iconwrap-filled-interface-icons/chronometer.svg";
 
-  /// Icon logo for clock-stand
-  static const clock_stand =
-      "assets/icons/iconwrap-filled-interface-icons/clock-stand.svg";
-
   /// Icon logo for clock
   static const clock = "assets/icons/iconwrap-filled-interface-icons/clock.svg";
 
-  /// Icon logo for close-circle
-  static const close_circle =
-      "assets/icons/iconwrap-filled-interface-icons/close-circle.svg";
+  /// Icon logo for clock_stand
+  static const clock_stand =
+      "assets/icons/iconwrap-filled-interface-icons/clock-stand.svg";
 
   /// Icon logo for close
   static const close = "assets/icons/iconwrap-filled-interface-icons/close.svg";
+
+  /// Icon logo for close_circle
+  static const close_circle =
+      "assets/icons/iconwrap-filled-interface-icons/close-circle.svg";
 
   /// Icon logo for comment
   static const comment =
@@ -133,29 +134,29 @@ class IconwrapFilledInterface {
   /// Icon logo for email
   static const email = "assets/icons/iconwrap-filled-interface-icons/email.svg";
 
-  /// Icon logo for error-box
+  /// Icon logo for error_box
   static const error_box =
       "assets/icons/iconwrap-filled-interface-icons/error-box.svg";
 
-  /// Icon logo for eye-close
+  /// Icon logo for eye_close
   static const eye_close =
       "assets/icons/iconwrap-filled-interface-icons/eye-close.svg";
 
-  /// Icon logo for eye-open
+  /// Icon logo for eye_open
   static const eye_open =
       "assets/icons/iconwrap-filled-interface-icons/eye-open.svg";
-
-  /// Icon logo for filter-circle
-  static const filter_circle =
-      "assets/icons/iconwrap-filled-interface-icons/filter-circle.svg";
-
-  /// Icon logo for filter-rectangle
-  static const filter_rectangle =
-      "assets/icons/iconwrap-filled-interface-icons/filter-rectangle.svg";
 
   /// Icon logo for filter
   static const filter =
       "assets/icons/iconwrap-filled-interface-icons/filter.svg";
+
+  /// Icon logo for filter_circle
+  static const filter_circle =
+      "assets/icons/iconwrap-filled-interface-icons/filter-circle.svg";
+
+  /// Icon logo for filter_rectangle
+  static const filter_rectangle =
+      "assets/icons/iconwrap-filled-interface-icons/filter-rectangle.svg";
 
   /// Icon logo for fullscreen
   static const fullscreen =
@@ -167,15 +168,15 @@ class IconwrapFilledInterface {
   /// Icon logo for heart
   static const heart = "assets/icons/iconwrap-filled-interface-icons/heart.svg";
 
-  /// Icon logo for home-door
+  /// Icon logo for home_door
   static const home_door =
       "assets/icons/iconwrap-filled-interface-icons/home-door.svg";
 
-  /// Icon logo for home-line
+  /// Icon logo for home_line
   static const home_line =
       "assets/icons/iconwrap-filled-interface-icons/home-line.svg";
 
-  /// Icon logo for home-smile
+  /// Icon logo for home_smile
   static const home_smile =
       "assets/icons/iconwrap-filled-interface-icons/home-smile.svg";
 
@@ -189,35 +190,35 @@ class IconwrapFilledInterface {
   static const location =
       "assets/icons/iconwrap-filled-interface-icons/location.svg";
 
-  /// Icon logo for lock-circle
+  /// Icon logo for lock_circle
   static const lock_circle =
       "assets/icons/iconwrap-filled-interface-icons/lock-circle.svg";
 
-  /// Icon logo for lock-line
+  /// Icon logo for lock_line
   static const lock_line =
       "assets/icons/iconwrap-filled-interface-icons/lock-line.svg";
 
-  /// Icon logo for menu-fries
+  /// Icon logo for menu_fries
   static const menu_fries =
       "assets/icons/iconwrap-filled-interface-icons/menu-fries.svg";
 
-  /// Icon logo for menu-hamburger
+  /// Icon logo for menu_hamburger
   static const menu_hamburger =
       "assets/icons/iconwrap-filled-interface-icons/menu-hamburger.svg";
 
-  /// Icon logo for menu-hotdog
+  /// Icon logo for menu_hotdog
   static const menu_hotdog =
       "assets/icons/iconwrap-filled-interface-icons/menu-hotdog.svg";
 
-  /// Icon logo for menu-kebab
+  /// Icon logo for menu_kebab
   static const menu_kebab =
       "assets/icons/iconwrap-filled-interface-icons/menu-kebab.svg";
 
-  /// Icon logo for menu-meatballs
+  /// Icon logo for menu_meatballs
   static const menu_meatballs =
       "assets/icons/iconwrap-filled-interface-icons/menu-meatballs.svg";
 
-  /// Icon logo for menu-strawberry
+  /// Icon logo for menu_strawberry
   static const menu_strawberry =
       "assets/icons/iconwrap-filled-interface-icons/menu-strawberry.svg";
 
@@ -225,41 +226,41 @@ class IconwrapFilledInterface {
   static const message =
       "assets/icons/iconwrap-filled-interface-icons/message.svg";
 
-  /// Icon logo for minus-box
+  /// Icon logo for minus
+  static const minus = "assets/icons/iconwrap-filled-interface-icons/minus.svg";
+
+  /// Icon logo for minus_box
   static const minus_box =
       "assets/icons/iconwrap-filled-interface-icons/minus-box.svg";
 
-  /// Icon logo for minus-circle
+  /// Icon logo for minus_circle
   static const minus_circle =
       "assets/icons/iconwrap-filled-interface-icons/minus-circle.svg";
-
-  /// Icon logo for minus
-  static const minus = "assets/icons/iconwrap-filled-interface-icons/minus.svg";
 
   /// Icon logo for mouse
   static const mouse = "assets/icons/iconwrap-filled-interface-icons/mouse.svg";
 
-  /// Icon logo for notification-bell-line
-  static const notification_bell_line =
-      "assets/icons/iconwrap-filled-interface-icons/notification-bell-line.svg";
-
-  /// Icon logo for notification-bell-new
-  static const notification_bell_new =
-      "assets/icons/iconwrap-filled-interface-icons/notification-bell-new.svg";
-
-  /// Icon logo for notification-bell
+  /// Icon logo for notification_bell
   static const notification_bell =
       "assets/icons/iconwrap-filled-interface-icons/notification-bell.svg";
 
-  /// Icon logo for notification-box-line
-  static const notification_box_line =
-      "assets/icons/iconwrap-filled-interface-icons/notification-box-line.svg";
+  /// Icon logo for notification_bell_line
+  static const notification_bell_line =
+      "assets/icons/iconwrap-filled-interface-icons/notification-bell-line.svg";
 
-  /// Icon logo for notification-box
+  /// Icon logo for notification_bell_new
+  static const notification_bell_new =
+      "assets/icons/iconwrap-filled-interface-icons/notification-bell-new.svg";
+
+  /// Icon logo for notification_box
   static const notification_box =
       "assets/icons/iconwrap-filled-interface-icons/notification-box.svg";
 
-  /// Icon logo for notification-direct
+  /// Icon logo for notification_box_line
+  static const notification_box_line =
+      "assets/icons/iconwrap-filled-interface-icons/notification-box-line.svg";
+
+  /// Icon logo for notification_direct
   static const notification_direct =
       "assets/icons/iconwrap-filled-interface-icons/notification-direct.svg";
 
@@ -271,13 +272,13 @@ class IconwrapFilledInterface {
   static const profile =
       "assets/icons/iconwrap-filled-interface-icons/profile.svg";
 
-  /// Icon logo for search-broken
-  static const search_broken =
-      "assets/icons/iconwrap-filled-interface-icons/search-broken.svg";
-
   /// Icon logo for search
   static const search =
       "assets/icons/iconwrap-filled-interface-icons/search.svg";
+
+  /// Icon logo for search_broken
+  static const search_broken =
+      "assets/icons/iconwrap-filled-interface-icons/search-broken.svg";
 
   /// Icon logo for setting
   static const setting =
@@ -292,57 +293,58 @@ class IconwrapFilledInterface {
   /// Icon logo for timer
   static const timer = "assets/icons/iconwrap-filled-interface-icons/timer.svg";
 
-  /// Icon logo for unlock-circle
+  /// Icon logo for unlock_circle
   static const unlock_circle =
       "assets/icons/iconwrap-filled-interface-icons/unlock-circle.svg";
 
-  /// Icon logo for unlock-line
+  /// Icon logo for unlock_line
   static const unlock_line =
       "assets/icons/iconwrap-filled-interface-icons/unlock-line.svg";
-
-  /// Icon logo for warning-box
-  static const warning_box =
-      "assets/icons/iconwrap-filled-interface-icons/warning-box.svg";
-
-  /// Icon logo for warning-circle
-  static const warning_circle =
-      "assets/icons/iconwrap-filled-interface-icons/warning-circle.svg";
 
   /// Icon logo for warning
   static const warning =
       "assets/icons/iconwrap-filled-interface-icons/warning.svg";
 
+  /// Icon logo for warning_box
+  static const warning_box =
+      "assets/icons/iconwrap-filled-interface-icons/warning-box.svg";
+
+  /// Icon logo for warning_circle
+  static const warning_circle =
+      "assets/icons/iconwrap-filled-interface-icons/warning-circle.svg";
+
   /// Icon logo for web
   static const web = "assets/icons/iconwrap-filled-interface-icons/web.svg";
 
-  /// Icon logo for wifi-threewave
+  /// Icon logo for wifi
+  static const wifi = "assets/icons/iconwrap-filled-interface-icons/wifi.svg";
+
+  /// Icon logo for wifi_threewave
   static const wifi_threewave =
       "assets/icons/iconwrap-filled-interface-icons/wifi-threewave.svg";
 
-  /// Icon logo for wifi-twowave
+  /// Icon logo for wifi_twowave
   static const wifi_twowave =
       "assets/icons/iconwrap-filled-interface-icons/wifi-twowave.svg";
-
-  /// Icon logo for wifi
-  static const wifi = "assets/icons/iconwrap-filled-interface-icons/wifi.svg";
 
   /// Icon logo for windowed
   static const windowed =
       "assets/icons/iconwrap-filled-interface-icons/windowed.svg";
 
-  /// Icon logo for zoom-in-broken
-  static const zoom_in_broken =
-      "assets/icons/iconwrap-filled-interface-icons/zoom-in-broken.svg";
-
-  /// Icon logo for zoom-in
+  /// Icon logo for zoom_in
   static const zoom_in =
       "assets/icons/iconwrap-filled-interface-icons/zoom-in.svg";
 
-  /// Icon logo for zoom-out-broken
-  static const zoom_out_broken =
-      "assets/icons/iconwrap-filled-interface-icons/zoom-out-broken.svg";
+  /// Icon logo for zoom_in_broken
+  static const zoom_in_broken =
+      "assets/icons/iconwrap-filled-interface-icons/zoom-in-broken.svg";
 
-  /// Icon logo for zoom-out
+  /// Icon logo for zoom_out
   static const zoom_out =
       "assets/icons/iconwrap-filled-interface-icons/zoom-out.svg";
+
+  /// Icon logo for zoom_out_broken
+  static const zoom_out_broken =
+      "assets/icons/iconwrap-filled-interface-icons/zoom-out-broken.svg";
 }
+
