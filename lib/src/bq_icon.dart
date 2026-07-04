@@ -16,7 +16,7 @@ class BqIcon extends SvgPicture {
   BqIcon(
     String assetName, {
     super.key,
-    double? size = 35.0,
+    double? size = 24.0,
     Color? color,
     ColorFilter? colorFilter,
   }) : super.asset(

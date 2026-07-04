@@ -1,0 +1,58 @@
+name: Update Showcase Website
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'lib/src/**'
+      - 'assets/icons/**'
+
+jobs:
+  update-showcase:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Checkout the package repository (bqicons)
+      - name: Checkout bqicons repo
+        uses: actions/checkout@v4
+        with:
+          path: bqicons
+
+      # 2. Checkout the showcase website repository (icons.blackqueens)
+      # Note: Needs a Personal Access Token (PAT) stored as a secret (e.g., WEBSITE_ACCESS_TOKEN) 
+      # because it is a different repository.
+      - name: Checkout icons.blackqueens repo
+        uses: actions/checkout@v4
+        with:
+          repository: kavimarkstar/icons.blackqueens
+          token: ${{ secrets.WEBSITE_ACCESS_TOKEN || secrets.GITHUB_TOKEN }}
+          path: icons.blackqueens
+
+      # 3. Setup Node.js
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # 4. Run the sync script (sibling directories)
+      - name: Run sync script
+        run: |
+          cd bqicons
+          node sync_local.js
+
+      # 5. Commit and push changes to the showcase website repo
+      - name: Commit and push changes
+        run: |
+          cd icons.blackqueens
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          
+          # Only commit and push if there are changes
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Auto-update icons from bqicons push"
+            git push origin main
+          else
+            echo "No changes in icons or assets detected."
+          fi
