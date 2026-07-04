@@ -30,6 +30,13 @@ flutter:
     - assets/icons/wave-oval-interface-icons/
     - assets/icons/software-mansion-curved-line-icons/
     - assets/icons/software-mansion-broken-icons/
+    - assets/icons/scarlab-oval-line-icons/
+    - assets/icons/scarlab-solid-oval-interface-icons/
+    - assets/icons/micions-interface-icons/
+    - assets/icons/start-universal-tiny-oval-icons/
+    - assets/icons/dazzle-line-icons/
+    - assets/icons/generica-tiny-interface-icons/
+    - assets/icons/iconwrap-filled-interface-icons/
 
   #
   # For details regarding assets in packages, see
