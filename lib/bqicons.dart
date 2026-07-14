@@ -16,3 +16,4 @@ export 'src/start-universal-tiny-oval-icons.dart';
 export 'src/dazzle-line-icons.dart';
 export 'src/generica-tiny-interface-icons.dart';
 export 'src/iconwrap-filled-interface-icons.dart';
+export 'src/social_icon.dart';
