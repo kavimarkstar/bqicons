@@ -1,6 +1,6 @@
 // ignore_for_file: constant_identifier_names
 
-class Social {
+class SocialIcons {
   static const google_color =
       "assets/icons/social/google.svg";
 
