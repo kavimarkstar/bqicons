@@ -37,6 +37,7 @@ flutter:
     - assets/icons/dazzle-line-icons/
     - assets/icons/generica-tiny-interface-icons/
     - assets/icons/iconwrap-filled-interface-icons/
+    - assets/icons/social/
 
   #
   # For details regarding assets in packages, see
